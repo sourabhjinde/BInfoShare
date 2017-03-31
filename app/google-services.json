@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "781291892624",
+    "firebase_url": "https://binfoshare.firebaseio.com",
+    "project_id": "binfoshare",
+    "storage_bucket": "binfoshare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781291892624:android:94975b6e2944b4c8",
+        "android_client_info": {
+          "package_name": "com.example.android.binfoshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781291892624-d121ob4a6eld1udcm4odtpqt6t2aflmm.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "781291892624-arc9io13oj2g0po5tdssd4r8acphadjd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.binfoshare",
+            "certificate_hash": "e51eb269559153f90490e7ff4c72e8487fa5a834"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWr9gbhBGADVVt82cOlyb7zlobmhp9Yf0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781291892624-d121ob4a6eld1udcm4odtpqt6t2aflmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
